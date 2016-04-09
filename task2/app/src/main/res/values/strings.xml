@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task2</string>
+    <string name="next_button">NEXT</string>
+    <string name="textButton1">GO TO ACTIVITI TWO</string>
+    <string name="textButton2">GO TO ACTIVITI THREE</string>
+    <string name="textView3">textView3</string>
+    <string name="textButton3">GO TO ACTIVITI ONE</string>
+    <string name="textView1">Hello World!</string>
+</resources>
